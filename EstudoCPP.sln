@@ -70,6 +70,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Mais sobre métodos", "A
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06-Composição de objetos", "Aprendendo Orientação a Objeticos com C++\01-Classes, métodos e atributos\06-Composição de objetos\06-Composição de objetos.vcxproj", "{68F0B2D5-DEA7-4E51-9D1F-53D60963C57E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-Enums", "Aprendendo Orientação a Objeticos com C++\03-Enum, templates e mais recursos\01-Enums\01-Enums.vcxproj", "{81B98554-2C29-4C04-BFF4-CE179F213CB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -264,6 +266,14 @@ Global
 		{68F0B2D5-DEA7-4E51-9D1F-53D60963C57E}.Release|x64.Build.0 = Release|x64
 		{68F0B2D5-DEA7-4E51-9D1F-53D60963C57E}.Release|x86.ActiveCfg = Release|Win32
 		{68F0B2D5-DEA7-4E51-9D1F-53D60963C57E}.Release|x86.Build.0 = Release|Win32
+		{81B98554-2C29-4C04-BFF4-CE179F213CB6}.Debug|x64.ActiveCfg = Debug|x64
+		{81B98554-2C29-4C04-BFF4-CE179F213CB6}.Debug|x64.Build.0 = Debug|x64
+		{81B98554-2C29-4C04-BFF4-CE179F213CB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{81B98554-2C29-4C04-BFF4-CE179F213CB6}.Debug|x86.Build.0 = Debug|Win32
+		{81B98554-2C29-4C04-BFF4-CE179F213CB6}.Release|x64.ActiveCfg = Release|x64
+		{81B98554-2C29-4C04-BFF4-CE179F213CB6}.Release|x64.Build.0 = Release|x64
+		{81B98554-2C29-4C04-BFF4-CE179F213CB6}.Release|x86.ActiveCfg = Release|Win32
+		{81B98554-2C29-4C04-BFF4-CE179F213CB6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -298,6 +308,7 @@ Global
 		{C8309030-1659-4F46-AAA3-581EC9CFFB07} = {F6E7DD95-BFB5-4A12-859A-C73E1D35CEB0}
 		{0712D1BD-8BAC-49D6-9471-3B949F0DBB9B} = {F6E7DD95-BFB5-4A12-859A-C73E1D35CEB0}
 		{68F0B2D5-DEA7-4E51-9D1F-53D60963C57E} = {F6E7DD95-BFB5-4A12-859A-C73E1D35CEB0}
+		{81B98554-2C29-4C04-BFF4-CE179F213CB6} = {E63EC186-1AF1-4CF3-995A-474310F6F968}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {15B86631-E828-4BD2-BC2A-FCE1DDF212F3}
