@@ -74,6 +74,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-Enums", "Aprendendo Orie
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-Operator overload", "Aprendendo Orientação a Objeticos com C++\03-Enum, templates e mais recursos\02-Operator overload\02-Operator overload.vcxproj", "{665ED1F2-B929-4A7A-B438-D5C23874F7D3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-Múltiplos tipos", "Aprendendo Orientação a Objeticos com C++\03-Enum, templates e mais recursos\03-Múltiplos tipos\03-Múltiplos tipos.vcxproj", "{600CF11C-28CD-4093-A1D1-922286A1589F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Templates", "Aprendendo Orientação a Objeticos com C++\03-Enum, templates e mais recursos\04-Templates\04-Templates.vcxproj", "{2A439AC1-217F-4670-B8C9-2C3562073D63}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Valores em templates", "Aprendendo Orientação a Objeticos com C++\03-Enum, templates e mais recursos\05-Valores em templates\05-Valores em templates.vcxproj", "{F3368472-8D0E-4D6E-90EC-39EABB52BC20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -284,6 +290,30 @@ Global
 		{665ED1F2-B929-4A7A-B438-D5C23874F7D3}.Release|x64.Build.0 = Release|x64
 		{665ED1F2-B929-4A7A-B438-D5C23874F7D3}.Release|x86.ActiveCfg = Release|Win32
 		{665ED1F2-B929-4A7A-B438-D5C23874F7D3}.Release|x86.Build.0 = Release|Win32
+		{600CF11C-28CD-4093-A1D1-922286A1589F}.Debug|x64.ActiveCfg = Debug|x64
+		{600CF11C-28CD-4093-A1D1-922286A1589F}.Debug|x64.Build.0 = Debug|x64
+		{600CF11C-28CD-4093-A1D1-922286A1589F}.Debug|x86.ActiveCfg = Debug|Win32
+		{600CF11C-28CD-4093-A1D1-922286A1589F}.Debug|x86.Build.0 = Debug|Win32
+		{600CF11C-28CD-4093-A1D1-922286A1589F}.Release|x64.ActiveCfg = Release|x64
+		{600CF11C-28CD-4093-A1D1-922286A1589F}.Release|x64.Build.0 = Release|x64
+		{600CF11C-28CD-4093-A1D1-922286A1589F}.Release|x86.ActiveCfg = Release|Win32
+		{600CF11C-28CD-4093-A1D1-922286A1589F}.Release|x86.Build.0 = Release|Win32
+		{2A439AC1-217F-4670-B8C9-2C3562073D63}.Debug|x64.ActiveCfg = Debug|x64
+		{2A439AC1-217F-4670-B8C9-2C3562073D63}.Debug|x64.Build.0 = Debug|x64
+		{2A439AC1-217F-4670-B8C9-2C3562073D63}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A439AC1-217F-4670-B8C9-2C3562073D63}.Debug|x86.Build.0 = Debug|Win32
+		{2A439AC1-217F-4670-B8C9-2C3562073D63}.Release|x64.ActiveCfg = Release|x64
+		{2A439AC1-217F-4670-B8C9-2C3562073D63}.Release|x64.Build.0 = Release|x64
+		{2A439AC1-217F-4670-B8C9-2C3562073D63}.Release|x86.ActiveCfg = Release|Win32
+		{2A439AC1-217F-4670-B8C9-2C3562073D63}.Release|x86.Build.0 = Release|Win32
+		{F3368472-8D0E-4D6E-90EC-39EABB52BC20}.Debug|x64.ActiveCfg = Debug|x64
+		{F3368472-8D0E-4D6E-90EC-39EABB52BC20}.Debug|x64.Build.0 = Debug|x64
+		{F3368472-8D0E-4D6E-90EC-39EABB52BC20}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3368472-8D0E-4D6E-90EC-39EABB52BC20}.Debug|x86.Build.0 = Debug|Win32
+		{F3368472-8D0E-4D6E-90EC-39EABB52BC20}.Release|x64.ActiveCfg = Release|x64
+		{F3368472-8D0E-4D6E-90EC-39EABB52BC20}.Release|x64.Build.0 = Release|x64
+		{F3368472-8D0E-4D6E-90EC-39EABB52BC20}.Release|x86.ActiveCfg = Release|Win32
+		{F3368472-8D0E-4D6E-90EC-39EABB52BC20}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -320,6 +350,9 @@ Global
 		{68F0B2D5-DEA7-4E51-9D1F-53D60963C57E} = {F6E7DD95-BFB5-4A12-859A-C73E1D35CEB0}
 		{81B98554-2C29-4C04-BFF4-CE179F213CB6} = {E63EC186-1AF1-4CF3-995A-474310F6F968}
 		{665ED1F2-B929-4A7A-B438-D5C23874F7D3} = {E63EC186-1AF1-4CF3-995A-474310F6F968}
+		{600CF11C-28CD-4093-A1D1-922286A1589F} = {E63EC186-1AF1-4CF3-995A-474310F6F968}
+		{2A439AC1-217F-4670-B8C9-2C3562073D63} = {E63EC186-1AF1-4CF3-995A-474310F6F968}
+		{F3368472-8D0E-4D6E-90EC-39EABB52BC20} = {E63EC186-1AF1-4CF3-995A-474310F6F968}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {15B86631-E828-4BD2-BC2A-FCE1DDF212F3}
