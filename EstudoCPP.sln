@@ -3,38 +3,40 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-Começando com a linguagem", "01-Começando com a linguagem\01-Começando com a linguagem.vcxproj", "{4E53A788-235F-4B77-96AF-C8BCAD9D0DFA}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-Verificando as tentativas", "02-Verificando as tentativas\02-Verificando as tentativas.vcxproj", "{A628D14E-8262-4D41-94F9-E4DE7A696E2C}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-Adicionando pontuação ao jogo", "03-Adicionando pontuação ao jogo\03-Adicionando pontuação ao jogo.vcxproj", "{77F32184-3BF9-4797-BD85-064E889AD455}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Finalizando o jogo da adivinhação", "04-Finalizando o jogo da adivinhação\04-Finalizando o jogo da adivinhação.vcxproj", "{137DC3FB-EC04-4998-A1FD-F61591808148}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Iniciando o jogo da forca", "05-Iniciando o jogo da forca\05-Iniciando o jogo da forca.vcxproj", "{81E162FC-45F2-4777-97A4-B4FAD98BEEB9}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06-Criando a condição de final de jogo", "06-Criando a condição de final de jogo\06-Criando a condição de final de jogo.vcxproj", "{481611CC-8DCE-43F8-BA1D-159942828595}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07-Finalizando o jogo da forca", "07-Finalizando o jogo da forca\07-Finalizando o jogo da forca.vcxproj", "{D2A87C5D-8F68-4F30-9A15-AE4269D87FFE}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-C++Conhecendo a linguagem e a STL", "01-C++Conhecendo a linguagem e a STL", "{42DF36B6-70C3-4FFD-9981-420D56462230}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-Organizando o projeto", "01-Organizando o projeto\01-Organizando o projeto.vcxproj", "{18892F0F-DFFF-498E-873C-439AD97E0BE8}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-Processo de compilação", "02-Processo de compilação\02-Processo de compilação.vcxproj", "{224B6748-9AD2-40CF-9D68-A5D3E316B12B}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-Ambiente profissional", "03-Ambiente profissional\03-Ambiente profissional.vcxproj", "{D0FB4B7E-1AF1-4575-BE9F-2F9212945E8A}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Recursos da linguagem", "04-Recursos da linguagem\04-Recursos da linguagem.vcxproj", "{959110D7-6EA8-42D1-8841-8E45D0357419}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Limitando o acesso", "05-Limitando o acesso\05-Limitando o acesso.vcxproj", "{AE1C7335-099F-4196-AA5C-8F5E274F834C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Avançando com C++ entenda melhor a linguagem", "02-Avançando com C++ entenda melhor a linguagem", "{8CC71DBE-BEAF-4234-9F20-548A18163C80}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{827E9055-5A83-4FB6-8B7A-7165049DDB40}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Conhecendo a linguagem", "Conhecendo a linguagem", "{0955FCE6-D2F0-4D79-B2CB-A94C784BE460}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-C++Conhecendo a linguagem e a STL", "01-C++Conhecendo a linguagem e a STL", "{2FFA793E-16BE-419E-9C5F-4C06531193FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Avançando com C++ entenda melhor a linguagem", "02-Avançando com C++ entenda melhor a linguagem", "{30DD1FCB-ADD2-4C39-B346-D5C70B9D8FDF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-Começando com a linguagem", "Conhecendo a linguagem\01-C++Conhecendo a linguagem e a STL\01-Começando com a linguagem\01-Começando com a linguagem.vcxproj", "{4E53A788-235F-4B77-96AF-C8BCAD9D0DFA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-Verificando as tentativas", "Conhecendo a linguagem\01-C++Conhecendo a linguagem e a STL\02-Verificando as tentativas\02-Verificando as tentativas.vcxproj", "{A628D14E-8262-4D41-94F9-E4DE7A696E2C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-Adicionando pontuação ao jogo", "Conhecendo a linguagem\01-C++Conhecendo a linguagem e a STL\03-Adicionando pontuação ao jogo\03-Adicionando pontuação ao jogo.vcxproj", "{77F32184-3BF9-4797-BD85-064E889AD455}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Finalizando o jogo da adivinhação", "Conhecendo a linguagem\01-C++Conhecendo a linguagem e a STL\04-Finalizando o jogo da adivinhação\04-Finalizando o jogo da adivinhação.vcxproj", "{137DC3FB-EC04-4998-A1FD-F61591808148}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Iniciando o jogo da forca", "Conhecendo a linguagem\01-C++Conhecendo a linguagem e a STL\05-Iniciando o jogo da forca\05-Iniciando o jogo da forca.vcxproj", "{81E162FC-45F2-4777-97A4-B4FAD98BEEB9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06-Criando a condição de final de jogo", "Conhecendo a linguagem\01-C++Conhecendo a linguagem e a STL\06-Criando a condição de final de jogo\06-Criando a condição de final de jogo.vcxproj", "{481611CC-8DCE-43F8-BA1D-159942828595}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07-Finalizando o jogo da forca", "Conhecendo a linguagem\01-C++Conhecendo a linguagem e a STL\07-Finalizando o jogo da forca\07-Finalizando o jogo da forca.vcxproj", "{D2A87C5D-8F68-4F30-9A15-AE4269D87FFE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-Organizando o projeto", "Conhecendo a linguagem\02-Avançando com C++ entenda melhor a linguagem\01-Organizando o projeto\01-Organizando o projeto.vcxproj", "{18892F0F-DFFF-498E-873C-439AD97E0BE8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-Processo de compilação", "Conhecendo a linguagem\02-Avançando com C++ entenda melhor a linguagem\02-Processo de compilação\02-Processo de compilação.vcxproj", "{224B6748-9AD2-40CF-9D68-A5D3E316B12B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-Ambiente profissional", "Conhecendo a linguagem\02-Avançando com C++ entenda melhor a linguagem\03-Ambiente profissional\03-Ambiente profissional.vcxproj", "{D0FB4B7E-1AF1-4575-BE9F-2F9212945E8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Recursos da linguagem", "Conhecendo a linguagem\02-Avançando com C++ entenda melhor a linguagem\04-Recursos da linguagem\04-Recursos da linguagem.vcxproj", "{959110D7-6EA8-42D1-8841-8E45D0357419}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Limitando o acesso", "Conhecendo a linguagem\02-Avançando com C++ entenda melhor a linguagem\05-Limitando o acesso\05-Limitando o acesso.vcxproj", "{AE1C7335-099F-4196-AA5C-8F5E274F834C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -145,18 +147,20 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{4E53A788-235F-4B77-96AF-C8BCAD9D0DFA} = {42DF36B6-70C3-4FFD-9981-420D56462230}
-		{A628D14E-8262-4D41-94F9-E4DE7A696E2C} = {42DF36B6-70C3-4FFD-9981-420D56462230}
-		{77F32184-3BF9-4797-BD85-064E889AD455} = {42DF36B6-70C3-4FFD-9981-420D56462230}
-		{137DC3FB-EC04-4998-A1FD-F61591808148} = {42DF36B6-70C3-4FFD-9981-420D56462230}
-		{81E162FC-45F2-4777-97A4-B4FAD98BEEB9} = {42DF36B6-70C3-4FFD-9981-420D56462230}
-		{481611CC-8DCE-43F8-BA1D-159942828595} = {42DF36B6-70C3-4FFD-9981-420D56462230}
-		{D2A87C5D-8F68-4F30-9A15-AE4269D87FFE} = {42DF36B6-70C3-4FFD-9981-420D56462230}
-		{18892F0F-DFFF-498E-873C-439AD97E0BE8} = {8CC71DBE-BEAF-4234-9F20-548A18163C80}
-		{224B6748-9AD2-40CF-9D68-A5D3E316B12B} = {8CC71DBE-BEAF-4234-9F20-548A18163C80}
-		{D0FB4B7E-1AF1-4575-BE9F-2F9212945E8A} = {8CC71DBE-BEAF-4234-9F20-548A18163C80}
-		{959110D7-6EA8-42D1-8841-8E45D0357419} = {8CC71DBE-BEAF-4234-9F20-548A18163C80}
-		{AE1C7335-099F-4196-AA5C-8F5E274F834C} = {8CC71DBE-BEAF-4234-9F20-548A18163C80}
+		{2FFA793E-16BE-419E-9C5F-4C06531193FA} = {0955FCE6-D2F0-4D79-B2CB-A94C784BE460}
+		{30DD1FCB-ADD2-4C39-B346-D5C70B9D8FDF} = {0955FCE6-D2F0-4D79-B2CB-A94C784BE460}
+		{4E53A788-235F-4B77-96AF-C8BCAD9D0DFA} = {2FFA793E-16BE-419E-9C5F-4C06531193FA}
+		{A628D14E-8262-4D41-94F9-E4DE7A696E2C} = {2FFA793E-16BE-419E-9C5F-4C06531193FA}
+		{77F32184-3BF9-4797-BD85-064E889AD455} = {2FFA793E-16BE-419E-9C5F-4C06531193FA}
+		{137DC3FB-EC04-4998-A1FD-F61591808148} = {2FFA793E-16BE-419E-9C5F-4C06531193FA}
+		{81E162FC-45F2-4777-97A4-B4FAD98BEEB9} = {2FFA793E-16BE-419E-9C5F-4C06531193FA}
+		{481611CC-8DCE-43F8-BA1D-159942828595} = {2FFA793E-16BE-419E-9C5F-4C06531193FA}
+		{D2A87C5D-8F68-4F30-9A15-AE4269D87FFE} = {2FFA793E-16BE-419E-9C5F-4C06531193FA}
+		{18892F0F-DFFF-498E-873C-439AD97E0BE8} = {30DD1FCB-ADD2-4C39-B346-D5C70B9D8FDF}
+		{224B6748-9AD2-40CF-9D68-A5D3E316B12B} = {30DD1FCB-ADD2-4C39-B346-D5C70B9D8FDF}
+		{D0FB4B7E-1AF1-4575-BE9F-2F9212945E8A} = {30DD1FCB-ADD2-4C39-B346-D5C70B9D8FDF}
+		{959110D7-6EA8-42D1-8841-8E45D0357419} = {30DD1FCB-ADD2-4C39-B346-D5C70B9D8FDF}
+		{AE1C7335-099F-4196-AA5C-8F5E274F834C} = {30DD1FCB-ADD2-4C39-B346-D5C70B9D8FDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {15B86631-E828-4BD2-BC2A-FCE1DDF212F3}
